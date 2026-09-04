@@ -1,0 +1,21 @@
+machine_id,machine_type,line_id,installation_date,manufacturer
+M01,CNC Mill,L01,2022-08-12,Bosch
+M02,Injection Molder,L02,2021-11-17,Fanuc
+M03,Assembly Robot,L01,2024-01-03,Siemens
+M04,Laser Cutter,L05,2023-10-01,Siemens
+M05,CNC Mill,L01,2023-07-26,Fanuc
+M06,Assembly Robot,L02,2022-11-08,ABB
+M07,Assembly Robot,L01,2022-07-16,Fanuc
+M08,Laser Cutter,L05,2026-04-22,Fanuc
+M09,Assembly Robot,L04,2022-05-29,Bosch
+M10,Injection Molder,L01,2025-04-03,Mitsubishi Electric
+M11,Press Brake,L03,2021-12-08,Fanuc
+M12,Press Brake,L02,2021-12-02,Siemens
+M13,Laser Cutter,L01,2022-06-19,Siemens
+M14,Press Brake,L03,2023-07-12,ABB
+M15,CNC Mill,L03,2023-08-24,Mitsubishi Electric
+M16,CNC Mill,L05,2025-12-19,Mitsubishi Electric
+M17,Assembly Robot,L01,2021-11-22,Bosch
+M18,Press Brake,L05,2026-06-10,ABB
+M19,CNC Mill,L02,2023-05-11,Siemens
+M20,Press Brake,L02,2026-04-21,Siemens
